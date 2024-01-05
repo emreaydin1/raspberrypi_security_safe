@@ -8,3 +8,15 @@ RFID modülüne kasa sahibi tanımlanmış kartını okuttuğunda güvenlik sist
 RFID modülüne tanımlanan kart okutulmadan kasanın bulunduğu dolabın kapağı açılırsa pır sensörü hareketi algılar, buzzer ses çıkartır ve kırmızı renkli led yanar. 
 Ayrıca kasa sahibinin e-mail adresine: “17.12.2022 tarihinde, 12:40:50 saatinde kasanıza izinsiz giriş tespit edilmiştir.” şeklinde bir uyarı mesajı yollanır. 
 Tüm bu sistemin işleyişi Python programlama diliyle yazılan kodlarla Raspberry Pi tarafından yürütülmektedir.
+
+Proje Görüntüleri
+
+![](/img/rsp1.png)
+
+![](/img/rsp2.png)
+
+![](/img/rsp3.png)
+
+![](/img/rsp4.png)
+
+![](/img/rsp5.png)
