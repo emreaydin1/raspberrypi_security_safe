@@ -15,8 +15,8 @@ Proje Görüntüleri
 
 ![](/img/rsp2.png)
 
-![](/img/rsp3.png)
+![](/img/rsp3.jpg)
 
-![](/img/rsp4.png)
+![](/img/rsp4.jpg)
 
-![](/img/rsp5.png)
+![](/img/rsp5.jpg)
